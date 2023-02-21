@@ -2,6 +2,8 @@
 
 User authentication in a SolidJS app using Supabase.
 
+After cloning repo, run the code below:
+
 ```bash
 $ npm install # or pnpm install or yarn install
 ```
